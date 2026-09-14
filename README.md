@@ -26,7 +26,7 @@ I specialize in bridging robust enterprise backend infrastructure with high-perf
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Abdulelah783&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
 
 ---
