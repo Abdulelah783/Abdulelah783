@@ -1,16 +1,37 @@
-## Hi there 👋
+### Hi there, I'm Abdelilah 👋
 
-<!--
-**Abdulelah783/Abdulelah783** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Software Engineer & Enterprise Mobile Solutions Specialist**
 
-Here are some ideas to get you started:
+I specialize in bridging robust enterprise backend infrastructure with high-performance, offline-first mobile applications. My core focus is building scalable architectures that integrate complex ERP systems with cross-platform mobile clients.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 💻 Core Tech Stack
+
+* **Mobile & Frontend:** Flutter, Dart, GetX, Clean Architecture
+* **Backend & API:** C# .NET Core, ASP.NET Core Web APIs, IIS Management & SSL
+* **Databases & Storage:** Oracle Database, SQLite, BLOB Data Management, Stored Procedures
+* **Tools & Environment:** Git, GitHub, VS Code, macOS, Bash Scripting for Automated Deployments
+
+---
+
+### 🚀 What I Do
+
+* **Enterprise Integration:** Designing secure, real-time data synchronization layers between mobile field applications and heavy backend ERP systems.
+* **Offline-First Architecture:** Building resilient local storage strategies (`SQLite`) to ensure continuous field operations without active internet connections.
+* **Performance & Media Handling:** Implementing efficient binary large object (`BLOB`) storage and image processing pipelines for enterprise documentations.
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
+
+---
+
+### 📬 Get in Touch
+
+* **LinkedIn:** [Your LinkedIn Profile](https://linkedin.com/in/your-profile)
+* **Email:** your.email@example.com
