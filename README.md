@@ -23,14 +23,6 @@ I specialize in bridging robust enterprise backend infrastructure with high-perf
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Abdulelah783&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
-
----
-
 ### 📬 Get in Touch
 
 * **LinkedIn:** [(https://linkedin.com/in/your-profile)](https://www.linkedin.com/in/%D8%B9%D8%A8%D8%AF%D8%A7%D9%84%D8%A5%D9%84%D9%87-%D8%A7%D9%84%D8%AE%D9%84%D9%8A%D8%AF%D9%8A-3b366b32a/)
